@@ -1,0 +1,217 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Bucket
+   type = "1"
+   version = "1.0">
+   <FileBreakpoints>
+      <FileBreakpoint
+         shouldBeEnabled = "No"
+         ignoreCount = "0"
+         continueAfterRunningActions = "No"
+         isPathRelative = "0"
+         filePath = "/Users/alisonleonard/openFrameworks0070/addons/ofxKinect/src/ofxKinect.cpp"
+         timestampString = "340160829.454617"
+         startingColumnNumber = "9223372036854775807"
+         endingColumnNumber = "9223372036854775807"
+         startingLineNumber = "198"
+         endingLineNumber = "198"
+         landmarkName = "ofxKinect::init(bool infrared, bool video, bool texture)"
+         landmarkType = "5">
+      </FileBreakpoint>
+      <FileBreakpoint
+         shouldBeEnabled = "No"
+         ignoreCount = "0"
+         continueAfterRunningActions = "No"
+         isPathRelative = "0"
+         filePath = "/Users/alisonleonard/openFrameworks0070/addons/ofxKinect/src/ofxKinect.cpp"
+         timestampString = "340162661.539538"
+         startingColumnNumber = "9223372036854775807"
+         endingColumnNumber = "9223372036854775807"
+         startingLineNumber = "186"
+         endingLineNumber = "186"
+         landmarkName = "ofxKinect::init(bool infrared, bool video, bool texture)"
+         landmarkType = "5">
+      </FileBreakpoint>
+      <FileBreakpoint
+         shouldBeEnabled = "No"
+         ignoreCount = "0"
+         continueAfterRunningActions = "No"
+         isPathRelative = "0"
+         filePath = "/Users/alisonleonard/openFrameworks0070/addons/ofxKinect/src/ofxKinect.cpp"
+         timestampString = "340162779.273972"
+         startingColumnNumber = "9223372036854775807"
+         endingColumnNumber = "9223372036854775807"
+         startingLineNumber = "180"
+         endingLineNumber = "180"
+         landmarkName = "ofxKinect::init(bool infrared, bool video, bool texture)"
+         landmarkType = "5">
+      </FileBreakpoint>
+      <FileBreakpoint
+         shouldBeEnabled = "No"
+         ignoreCount = "0"
+         continueAfterRunningActions = "No"
+         isPathRelative = "0"
+         filePath = "/Users/alisonleonard/openFrameworks0070/addons/ofxKinect/src/ofxKinect.cpp"
+         timestampString = "340162786.371625"
+         startingColumnNumber = "9223372036854775807"
+         endingColumnNumber = "9223372036854775807"
+         startingLineNumber = "187"
+         endingLineNumber = "187"
+         landmarkName = "ofxKinect::init(bool infrared, bool video, bool texture)"
+         landmarkType = "5">
+      </FileBreakpoint>
+      <FileBreakpoint
+         shouldBeEnabled = "No"
+         ignoreCount = "0"
+         continueAfterRunningActions = "No"
+         isPathRelative = "0"
+         filePath = "/Users/alisonleonard/openFrameworks0070/libs/openFrameworks/graphics/ofGraphics.cpp"
+         timestampString = "340166596.57038"
+         startingColumnNumber = "9223372036854775807"
+         endingColumnNumber = "9223372036854775807"
+         startingLineNumber = "351"
+         endingLineNumber = "351"
+         landmarkName = "ofBackground(int r, int g, int b, int a)"
+         landmarkType = "7">
+      </FileBreakpoint>
+      <FileBreakpoint
+         shouldBeEnabled = "No"
+         ignoreCount = "0"
+         continueAfterRunningActions = "No"
+         isPathRelative = "0"
+         filePath = "/Users/alisonleonard/openFrameworks0070/libs/openFrameworks/gl/ofGLRenderer.cpp"
+         timestampString = "340166638.37411"
+         startingColumnNumber = "9223372036854775807"
+         endingColumnNumber = "9223372036854775807"
+         startingLineNumber = "626"
+         endingLineNumber = "626"
+         landmarkName = "ofGLRenderer::background(int r, int g, int b, int a)"
+         landmarkType = "5">
+      </FileBreakpoint>
+      <FileBreakpoint
+         shouldBeEnabled = "No"
+         ignoreCount = "0"
+         continueAfterRunningActions = "No"
+         isPathRelative = "0"
+         filePath = "/Users/alisonleonard/openFrameworks0070/libs/openFrameworks/gl/ofGLRenderer.cpp"
+         timestampString = "340166640.145288"
+         startingColumnNumber = "9223372036854775807"
+         endingColumnNumber = "9223372036854775807"
+         startingLineNumber = "628"
+         endingLineNumber = "628"
+         landmarkName = "ofGLRenderer::background(int r, int g, int b, int a)"
+         landmarkType = "5">
+      </FileBreakpoint>
+      <FileBreakpoint
+         shouldBeEnabled = "No"
+         ignoreCount = "0"
+         continueAfterRunningActions = "No"
+         isPathRelative = "0"
+         filePath = "/Users/alisonleonard/openFrameworks0070/libs/openFrameworks/gl/ofGLRenderer.cpp"
+         timestampString = "340166642.029119"
+         startingColumnNumber = "9223372036854775807"
+         endingColumnNumber = "9223372036854775807"
+         startingLineNumber = "627"
+         endingLineNumber = "627"
+         landmarkName = "ofGLRenderer::background(int r, int g, int b, int a)"
+         landmarkType = "5">
+      </FileBreakpoint>
+      <FileBreakpoint
+         shouldBeEnabled = "No"
+         ignoreCount = "0"
+         continueAfterRunningActions = "No"
+         isPathRelative = "1"
+         filePath = "src/testApp.cpp"
+         timestampString = "340192919.061137"
+         startingColumnNumber = "9223372036854775807"
+         endingColumnNumber = "9223372036854775807"
+         startingLineNumber = "274"
+         endingLineNumber = "274"
+         landmarkName = "testApp::drawMesh()"
+         landmarkType = "5">
+      </FileBreakpoint>
+      <FileBreakpoint
+         shouldBeEnabled = "No"
+         ignoreCount = "0"
+         continueAfterRunningActions = "No"
+         isPathRelative = "1"
+         filePath = "src/testApp.cpp"
+         timestampString = "340190223.560041"
+         startingColumnNumber = "9223372036854775807"
+         endingColumnNumber = "9223372036854775807"
+         startingLineNumber = "122"
+         endingLineNumber = "122"
+         landmarkName = "testApp::update()"
+         landmarkType = "5">
+      </FileBreakpoint>
+      <FileBreakpoint
+         shouldBeEnabled = "No"
+         ignoreCount = "0"
+         continueAfterRunningActions = "No"
+         isPathRelative = "1"
+         filePath = "src/testApp.cpp"
+         timestampString = "340192919.061137"
+         startingColumnNumber = "9223372036854775807"
+         endingColumnNumber = "9223372036854775807"
+         startingLineNumber = "220"
+         endingLineNumber = "220"
+         landmarkName = "testApp::draw()"
+         landmarkType = "5">
+      </FileBreakpoint>
+      <FileBreakpoint
+         shouldBeEnabled = "No"
+         ignoreCount = "0"
+         continueAfterRunningActions = "No"
+         isPathRelative = "1"
+         filePath = "src/Logos.cpp"
+         timestampString = "340191227.562068"
+         startingColumnNumber = "9223372036854775807"
+         endingColumnNumber = "9223372036854775807"
+         startingLineNumber = "21"
+         endingLineNumber = "21"
+         landmarkName = "Logos::draw()"
+         landmarkType = "5">
+      </FileBreakpoint>
+      <FileBreakpoint
+         shouldBeEnabled = "No"
+         ignoreCount = "0"
+         continueAfterRunningActions = "No"
+         isPathRelative = "1"
+         filePath = "src/testApp.cpp"
+         timestampString = "340190562.070448"
+         startingColumnNumber = "9223372036854775807"
+         endingColumnNumber = "9223372036854775807"
+         startingLineNumber = "106"
+         endingLineNumber = "106"
+         landmarkName = "testApp::update()"
+         landmarkType = "5">
+      </FileBreakpoint>
+      <FileBreakpoint
+         shouldBeEnabled = "No"
+         ignoreCount = "0"
+         continueAfterRunningActions = "No"
+         isPathRelative = "1"
+         filePath = "src/testApp.cpp"
+         timestampString = "340190564.605926"
+         startingColumnNumber = "9223372036854775807"
+         endingColumnNumber = "9223372036854775807"
+         startingLineNumber = "108"
+         endingLineNumber = "108"
+         landmarkName = "testApp::update()"
+         landmarkType = "5">
+      </FileBreakpoint>
+      <FileBreakpoint
+         shouldBeEnabled = "No"
+         ignoreCount = "0"
+         continueAfterRunningActions = "No"
+         isPathRelative = "1"
+         filePath = "src/testApp.cpp"
+         timestampString = "340190566.746007"
+         startingColumnNumber = "9223372036854775807"
+         endingColumnNumber = "9223372036854775807"
+         startingLineNumber = "109"
+         endingLineNumber = "109"
+         landmarkName = "testApp::update()"
+         landmarkType = "5">
+      </FileBreakpoint>
+   </FileBreakpoints>
+</Bucket>
